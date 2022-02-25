@@ -1,0 +1,20 @@
+# Themes
+/themes/twenty*/
+/themes/index.php
+
+# Plugins
+/plugins/hello.php
+/plugins/index.php
+/wpvividbackups/
+/wpvivid_staging/
+/WPvivid_Uploads/
+/ai1wm-backups
+
+# Uploads
+/uploads/
+
+# Misc
+/index.php
+/languages
+*.log
+.DS_Store
